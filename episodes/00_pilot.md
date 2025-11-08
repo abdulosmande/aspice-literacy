@@ -11,7 +11,7 @@ Cooperation flows across organizational borders, each player bringing their own 
 
 In this cross-company relay, alignment becomes more than a management buzzword — it’s a daily challenge.
 
-![The path to software quality in the automotive industry: a shared road.](../assets/e00_01.jpg)
+![The path to software quality in the automotive industry: a shared road.](../assets/e00_01.jpg "The path to software quality in the automotive industry: a shared road. (Gemini generated image)")
 
 And in the automotive world, one framework keeps that journey safe, consistent, and predictable: **Automotive SPICE (ASPICE).**
 
@@ -72,7 +72,7 @@ Weeks later, the team realizes:
 
 When reality strikes, people jump ship, roles change, knowledge scatters, and the cycle repeats — ready for the next round of snake oil.
 
-![From snake oil salesman to ASPICE consultant — some things never change.](../assets/e00_02.jpg)
+![From snake oil salesman to ASPICE consultant — some things never change.](../assets/e00_02.jpg "From snake oil salesman to ASPICE consultant — some things never change (Gemini generated image)")
 
 ## 🎯 The Goal of ASPICE Literacy
 
