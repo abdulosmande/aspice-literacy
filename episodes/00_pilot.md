@@ -20,13 +20,9 @@ No jargon overload.
 No death-by-PDF.  
 No 120-slide PPT nightmares.
 
----
-
 ## 📌 Why This Series?
 
 After many years in automotive software, I’ve observed a few recurring patterns that can’t be ignored.
-
----
 
 ### 1️⃣ High Team Turnover = Process Amnesia
 
@@ -35,8 +31,6 @@ The automotive world sees **high fluctuation in teams** — job changes, reorgan
 Knowledge walks out the door.
 
 Without established, consistent processes, every newcomer risks **reinventing the wheel**, slowing down delivery and degrading quality.
-
----
 
 ### 2️⃣ Education? Too Rare, Too Late
 
@@ -53,8 +47,6 @@ So most people learn:
 
 After a 9–10 hour day (plus commute), few have the energy for self-study — deep knowledge remains the exception.
 
----
-
 ### 3️⃣ Myths Multiply in the Dark
 
 Where education is lacking, **myths grow fast**:
@@ -66,8 +58,6 @@ Where education is lacking, **myths grow fast**:
 These misconceptions make real process improvement harder.
 
 When misinformation spreads, **management buy-in collapses**, and even motivated engineers resist learning — because myths poison the mind *before* the first lesson begins.
-
----
 
 ### 4️⃣ The Rise of the ‘Magic Elixir’ Consultant
 
@@ -83,8 +73,6 @@ Weeks later, the team realizes:
 When reality strikes, people jump ship, roles change, knowledge scatters, and the cycle repeats — ready for the next round of snake oil.
 
 ![From snake oil salesman to ASPICE consultant — some things never change.](../assets/e00_02.jpg)
-
----
 
 ## 🎯 The Goal of ASPICE Literacy
 
@@ -106,10 +94,10 @@ Whether you’re a developer, tester, project manager, auditor, or simply *ASPIC
 
 Because in the end, *quality is built by people who understand the road they’re driving on.*
 
----
-
 ## 🚀 Coming Next  
 **Episode 1: What Exactly Is ASPICE?**  
 Stay tuned.  
+
+---
 
 © 2025 Abdul Osman — Licensed under CC BY 4.0.
