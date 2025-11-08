@@ -111,3 +111,5 @@ Because in the end, *quality is built by people who understand the road they’r
 ## 🚀 Coming Next  
 **Episode 1: What Exactly Is ASPICE?**  
 Stay tuned.  
+
+© 2025 Abdul Osman — Licensed under CC BY 4.0.
